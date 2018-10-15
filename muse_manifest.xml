@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1539635090621">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1539635397037">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3861574311" ref="index"/>
-    <file name="8class.css" crc="4081872912" ref="8class"/>
     <file name="voramnet1.css" crc="4094428263" ref="voramnet1"/>
+    <file name="index.css" crc="4279305953" ref="index"/>
+    <file name="8class.css" crc="4081872912" ref="8class"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:8class:voramnet1"/>
@@ -93,7 +93,7 @@
       <caption webpage="voramnet1" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="238604632" seo="true" mt="1539634948042" redirect="true"/>
-  <file name="8class.html" crc="3774299155" seo="true" mt="1539634351946" redirect="true"/>
+  <file name="index.html" crc="4010900398" seo="true" mt="1539635353921" redirect="true"/>
+  <file name="8class.html" crc="3993401455" seo="true" mt="1539634351946" redirect="true"/>
   <file name="voramnet1.html" crc="3921044011" seo="true" mt="1539634922267" redirect="true"/>
 </manifest>

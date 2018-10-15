@@ -185,9 +185,9 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u5730-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,216]},{"speed":[null,0],"in":[216,Infinity]}]);/* scroll effect */
-$('#u5730').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,216],"opacity":0},{"in":[216,216],"opacity":100},{"fade":50,"in":[216,Infinity],"opacity":100}]);/* scroll effect */
+$('#u5730').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,216],"fade":50},{"in":[216,216],"opacity":100},{"opacity":100,"in":[216,Infinity],"fade":50}]);/* scroll effect */
 $('#menuu5686').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,218]},{"speed":[0,0],"in":[218,Infinity]}]);/* scroll effect */
-$('#menuu5686').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,218],"opacity":0},{"in":[218,218],"opacity":100},{"fade":50,"in":[218,Infinity],"opacity":100}]);/* scroll effect */
+$('#menuu5686').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,218],"fade":50},{"in":[218,218],"opacity":100},{"opacity":100,"in":[218,Infinity],"fade":50}]);/* scroll effect */
 $('#u5727').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1521]},{"speed":[0,0],"in":[1521,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

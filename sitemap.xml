@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ni0free.github.io/index.html</loc>
-    <lastmod>2018-10-15</lastmod>
+    <lastmod>2018-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,9 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://ni0free.github.io/images/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ni0free.github.io/images/27e2a59ab1ed4e676a85c619ec2cf5f9-seta-fita-curva-by-vexels.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -55,6 +52,33 @@
     </image:image>
     <image:image>
       <image:loc>http://ni0free.github.io/images/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82428x900.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/home.html</loc>
+    <lastmod>2018-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/27e2a59ab1ed4e676a85c619ec2cf5f9-seta-fita-curva-by-vexels.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/homephone.html</loc>
+    <lastmod>2018-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82.png</image:loc>
     </image:image>
   </url>
 </urlset>

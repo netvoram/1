@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1539717680868">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1539718449489">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="homephone.css" crc="336499245" ref="homephone"/>
+    <file name="homephone.css" crc="121362005" ref="homephone"/>
     <file name="8class.css" crc="4081872912" ref="8class"/>
     <file name="home.css" crc="4091999233" ref="home"/>
     <file name="index.css" crc="422939319" ref="index"/>
@@ -113,5 +113,5 @@
   <file name="8class.html" crc="3993401455" seo="true" mt="1539634351946" redirect="true"/>
   <file name="voramnet1.html" crc="3921044011" seo="true" mt="1539634922267" redirect="true"/>
   <file name="home.html" crc="63474351" seo="true" mt="1539717619101" redirect="true"/>
-  <file name="homephone.html" crc="3847370409" seo="true" mt="1539717308191" redirect="true"/>
+  <file name="homephone.html" crc="93844539" seo="true" mt="1539718409753" redirect="true"/>
 </manifest>
